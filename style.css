@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(to right, #22c1c3,#fdbb2d);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    color:black ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.sport{
+    display: flex;
+    justify-items: center;
+}
+.sport img{
+    padding: 10px;
+    width: 50%;
+    height: 50%;
+}
+.sport p{
+    padding: 5%;
+}
+
+.sport2 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+
+nav{
+    text-align: center;
+}
+
+
+nav a{
+    background-color:yellow;
+    font-size: 25px;
+    border: 6px double blue;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 30px;
+    text-decoration: none;
+
+
+}
